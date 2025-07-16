@@ -15,6 +15,13 @@ Improve power button and RGB.
 - tachyon-power-buttonv1.1.stl
 ![alt text](/pictures/tachyon_verticalv1.1.png)
 
+# V1.2
+Battery extension based on version 1.1.
+- tachyon-case-bottomv1.2.stl
+- tachyon-case-topv1.2.stl
+- tachyon-case-top-batteryv1.2.stl
+![alt text](/pictures/tachyon_case_battery_v1.2.png)
+
 **3D Printing Note:** Configure the line width to 0.3 mm or less, and review the button slot (since the wall is 0.4 mm thick) to ensure proper fit before printing.
 
 eg: slice
