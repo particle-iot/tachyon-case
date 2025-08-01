@@ -9,3 +9,6 @@
 
 # Bottom
 ![alt text](pictures/tachyon_bottom.png)
+
+# Stand
+![alt text](pictures/tachyon_case_stand_v1.png)
