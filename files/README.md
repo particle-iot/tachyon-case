@@ -38,3 +38,13 @@ Standard
 
 Battery included
 ![alt text](/pictures/tachyon_case_battery_vertical_v2.png)
+
+# V3
+This is another series: Design a case with magnetic rods.
+
+Note: the design specifies two sizes of magnetic pillars: 2.5 mm diameter * 6.0 mm length; 3.0 mm diameter * 4.0 mm length.
+
+- tachyon-case-bottom-magnet.stl
+- tachyon-case-top-magnet.stl
+
+![alt text](/pictures/tachyon_case_magnet_vertical.png)
