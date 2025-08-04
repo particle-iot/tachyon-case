@@ -31,10 +31,14 @@ eg: slice
 Improve the power button and battery included extension.
 - tachyon-case-bottomv2.stl
 - tachyon-case-topv2.stl
+- tachyon-case-top-antennav2.stl
 - tachyon-case-top-batteryv2.stl
 
 Standard
 ![alt text](/pictures/tachyon_case_vertical_v2.png)
+
+Antenna
+![alt text](/pictures/tachyon_case_antenna_vertical_v2.png)
 
 Battery included
 ![alt text](/pictures/tachyon_case_battery_vertical_v2.png)
