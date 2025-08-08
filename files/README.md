@@ -5,6 +5,7 @@
 Implement tachyon case first version.
 - tachyon-case-bottomv1.stl
 - tachyon-case-topv1.stl
+
 ![alt text](/pictures/tachyon_vertical.png)
 
 
@@ -13,6 +14,7 @@ Improve power button and RGB.
 - tachyon-case-bottomv1.1.stl
 - tachyon-case-topv1.1.stl
 - tachyon-power-buttonv1.1.stl
+
 ![alt text](/pictures/tachyon_verticalv1.1.png)
 
 # V1.2
@@ -20,7 +22,8 @@ Battery extension based on version 1.1.
 - tachyon-case-bottomv1.2.stl
 - tachyon-case-topv1.2.stl
 - tachyon-case-top-batteryv1.2.stl
-![alt text](/pictures/tachyon_case_battery_v1.2.png)
+
+![alt text](/pictures/tachyon_case_battery_vertical_v1.2.png)
 
 **3D Printing Note:** Configure the line width to 0.3 mm or less, and review the button slot (since the wall is 0.4 mm thick) to ensure proper fit before printing.
 
@@ -52,3 +55,12 @@ Note: the design specifies two sizes of magnetic pillars: 2.5 mm diameter * 6.0 
 - tachyon-case-top-magnet.stl
 
 ![alt text](/pictures/tachyon_case_magnet_vertical.png)
+
+# Extension
+
+Tachyon case compatible with the Pimoroni NVMe BASE.
+- tachyon-case-bottom-nvmebase.stl
+- tachyon-case-top-nvmebase.stl
+
+Note: When 3D printing, the bottom circular hole will require support.
+![alt text](/pictures/tachyon_case_nvmebase_vertical.png)
