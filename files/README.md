@@ -46,6 +46,27 @@ Antenna
 Battery included
 ![alt text](/pictures/tachyon_case_battery_vertical_v2.png)
 
+# V2.1
+Improved the right slot position and added support for a single battery and the Adafruit Monochrome 0.96" 128×64 OLED extension.
+- tachyon-case-bottomv2.1.stl
+- tachyon-case-topv2.1.stl
+- tachyon-case-top-antennav2.1.stl
+- tachyon-case-top-antenna-oledv2.1.stl
+- tachyon-case-top-batteryv2.1.stl
+- tachyon-case-top-battery-oledv2.1.stl
+
+Standard
+![alt text](/pictures/tachyon_case_vertical_v2.1.png)
+
+Antenna & Oled
+![alt text](/pictures/tachyon_case_antenna_vertical_v2.1.png)
+![alt text](/pictures/tachyon_case_antenna_oled_v2.1.png)
+
+Battery included & Oled
+![alt text](/pictures/tachyon_case_battery_vertical_v2.1.png)
+![alt text](/pictures/tachyon_case_battery_vertical_oled_v2.1.png)
+![alt text](/pictures/tachyon_case_battery_oled_v2.1.png)
+
 # V3
 This is another series: Design a case with magnetic rods.
 
